@@ -2,8 +2,8 @@
 
 ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apolref&show_icons=true&theme=gruvbox&size_weight=0.5&count_weight=0.5)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolref&layout=donut&theme=gruvbox&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apolref&show_icons=true&theme=gruvbox)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolrefa&layout=compact&theme=gruvbox)
 
 <div>
   <a href = "mailto:alelopfer@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
